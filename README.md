@@ -8,4 +8,6 @@ spec tls [https://datatracker.ietf.org/doc/html/rfc2818]
 
 spec 2.0 [https://datatracker.ietf.org/doc/html/rfc7540]
 
+websocket [https://datatracker.ietf.org/doc/html/rfc2818]
+
 spec 3.0 (draft) [https://datatracker.ietf.org/doc/html/draft-ietf-quic-http-23]
